@@ -97,7 +97,7 @@
 	},
 	{
 		"abr": "aurora",
-		"price": 200,
+		"price": 400,
 		"karmatype": "Good"
 	},
 	{
@@ -107,7 +107,7 @@
 	},
 	{
 		"abr": "animaltame",
-		"price": 150,
+		"price": 600,
 		"karmatype": "Good"
 	},
 	{
@@ -131,11 +131,6 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "maninblack",
-		"price": 350,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "madanimal",
 		"price": 200,
 		"karmatype": "Bad"
@@ -152,7 +147,7 @@
 	},
 	{
 		"abr": "ambrosiasprout",
-		"price": 150,
+		"price": 600,
 		"karmatype": "Good"
 	},
 	{
@@ -163,11 +158,6 @@
 	{
 		"abr": "farmanimals",
 		"price": 400,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "wildman",
-		"price": 300,
 		"karmatype": "Good"
 	},
 	{
@@ -202,7 +192,7 @@
 	},
 	{
 		"abr": "alphabeavers",
-		"price": 600,
+		"price": 1200,
 		"karmatype": "Bad"
 	},
 	{
@@ -217,7 +207,7 @@
 	},
 	{
 		"abr": "militaryaid",
-		"price": 700,
+		"price": 1500,
 		"karmatype": "Good"
 	},
 	{
@@ -317,12 +307,12 @@
 	},
 	{
 		"abr": "torytalkervote",
-		"price": 750,
+		"price": 1500,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "hodlbotvote",
-		"price": 600,
+		"price": 1200,
 		"karmatype": "Neutral"
 	},
 	{
@@ -377,12 +367,12 @@
 	},
 	{
 		"abr": "passion",
-		"price": 7000,
+		"price": 3500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "removepassion",
-		"price": 5000,
+		"price": 3000,
 		"karmatype": "Neutral"
 	},
 	{
@@ -521,5 +511,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 104
+	"total": 102
 }
